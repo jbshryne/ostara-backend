@@ -1,3 +1,4 @@
+drfvenv
 .env
 *.log
 *.pot
